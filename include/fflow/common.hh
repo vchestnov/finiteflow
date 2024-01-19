@@ -6,6 +6,7 @@
 #include <iostream>
 #include <vector>
 #include <cstdlib>
+#include <flint/nmod.h>
 #include <flint/nmod_vec.h>
 #include <fflow/config.hh>
 #include <fflow/format.h>
